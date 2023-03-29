@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doking517
 - 👀 I’m interested in video game ,sport and coding
-- 🌱 I’m currently learning Reacjs
+- 🌱 I’m currently learning Angular and Java
 - 💞️ I’m looking to collaborate on open Source and other types of projects
 - 📫 How to reach me ,email me at tsemojust@yahoo.com
 
