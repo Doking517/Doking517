@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doking517
 - 👀 I’m interested in video game ,sport and coding
-- 🌱 I’m currently learning React JS, React Native and Nest
+- 🌱 I’m currently learning React JS, React Native and NestJS
 - 💞️ I’m looking to collaborate on open Source and other types of projects
 - 📫 How to reach me ,email me at tsemojust@yahoo.com
 
